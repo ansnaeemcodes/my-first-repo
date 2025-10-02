@@ -1,1 +1,3 @@
-# this is a conflict file edit
+# this is a main file edit
+main
+now this conflict editS
