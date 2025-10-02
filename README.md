@@ -1,2 +1,2 @@
 # this is a conflict file edit
-zmzmzmmzzmzm
+this is a mistake
